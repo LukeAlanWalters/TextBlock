@@ -2,4 +2,8 @@
 
 Author: Luke Walters
 
-This repository contains the TextBlock items and the tests for said TextBlock class implementations.
+Worked on this file with Kevin Johanson
+
+This repository contains the different implementations of the TextBlock class and TextLine and their relevant utility function. 
+
+Created with the purpose of formating text utilizing objects in java
